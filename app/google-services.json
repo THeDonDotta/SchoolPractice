@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098488488716",
+    "project_id": "schoolpractice-9eba3",
+    "storage_bucket": "schoolpractice-9eba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098488488716:android:7471a568abf56de73fdf29",
+        "android_client_info": {
+          "package_name": "com.example.practiceschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098488488716-aj2tahkknlvnnrfpr7a29tij8rvce0ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXghTZ3FXQE_3z7ajqvSSYeF1xGxhniNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098488488716-aj2tahkknlvnnrfpr7a29tij8rvce0ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
